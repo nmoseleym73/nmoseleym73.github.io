@@ -1,8 +1,1 @@
-	atOptions = {
-		'key' : '9c1fdc6877fa75f91e20db6ab519f3d0',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
-		'params' : {}
-	};
-document.write('<script type="text/javascript" src="//enginecorruptiontrice.com/9c1fdc6877fa75f91e20db6ab519f3d0/invoke.js"></script>');
+document.write("<script type=\"text\/javascript\">\r\n\tatOptions = {\r\n\t\t'key' : '9c1fdc6877fa75f91e20db6ab519f3d0',\r\n\t\t'format' : 'iframe',\r\n\t\t'height' : 60,\r\n\t\t'width' : 468,\r\n\t\t'params' : {}\r\n\t};\r\n<\/script>\r\n<script type=\"text\/javascript\" src=\"\/\/enginecorruptiontrice.com\/9c1fdc6877fa75f91e20db6ab519f3d0\/invoke.js\"><\/script>");
