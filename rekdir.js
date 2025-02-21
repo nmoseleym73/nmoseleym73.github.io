@@ -1,11 +1,1 @@
-
-var myHtml =  '<center><script type="text/javascript">' +
-'	atOptions = {' +
-'		\'key\' : \'0bb13e3a0e0436ba26c5daafdd7d8ab4\',' +
-'		\'format\' : \'iframe\',' +
-'		\'height\' : 90,' +
-'		\'width\' : 728,' +
-'		\'params\' : {}' +
-'	};' +
-'</script>' +
-'<script type="text/javascript" src="//enginecorruptiontrice.com/0bb13e3a0e0436ba26c5daafdd7d8ab4/invoke.js"></script></center>';
+document.write("<center><script type=\"text\/javascript\">\r\n\tatOptions = {\r\n\t\t'key' : '0bb13e3a0e0436ba26c5daafdd7d8ab4',\r\n\t\t'format' : 'iframe',\r\n\t\t'height' : 90,\r\n\t\t'width' : 728,\r\n\t\t'params' : {}\r\n\t};\r\n<\/script>\r\n<script type=\"text\/javascript\" src=\"\/\/enginecorruptiontrice.com\/0bb13e3a0e0436ba26c5daafdd7d8ab4\/invoke.js\"><\/script><\/center>");
